@@ -1,5 +1,5 @@
 {
-  "name": "wistia-js",
+  "name": "wistia-js-player-api",
   "version": "1.0.0",
   "description": "Exposes the Wistia JS Player API via npm",
   "main": "wistia.js",
